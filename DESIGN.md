@@ -29,6 +29,14 @@ TODO: strategy to resolve fork
 
 TODO: strategy to catch up
 
+## Data Structures
+
+### Tracker Request / Response
+
+### Message
+
+### Block
+
 ## Work Partition
 
 TODO
